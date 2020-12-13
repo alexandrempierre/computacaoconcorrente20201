@@ -1,0 +1,1080 @@
+Execução #1 com 1 threads e matriz 500 x 500
+
+1 Thread
+Inicialização -- 0.009 segundos
+Produto de matrizes -- 0.705 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.714
+
+
+Execução #2 com 1 threads e matriz 500 x 500
+
+1 Thread
+Inicialização -- 0.011 segundos
+Produto de matrizes -- 0.742 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.753
+
+
+Execução #3 com 1 threads e matriz 500 x 500
+
+1 Thread
+Inicialização -- 0.011 segundos
+Produto de matrizes -- 0.761 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.772
+
+
+Execução #4 com 1 threads e matriz 500 x 500
+
+1 Thread
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.802 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.812
+
+
+Execução #5 com 1 threads e matriz 500 x 500
+
+1 Thread
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.789 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.799
+
+
+Execução #1 com 2 threads e matriz 500 x 500
+
+2 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.500 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.510
+
+
+Execução #2 com 2 threads e matriz 500 x 500
+
+2 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.397 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.407
+
+
+Execução #3 com 2 threads e matriz 500 x 500
+
+2 Threads
+Inicialização -- 0.011 segundos
+Produto de matrizes -- 0.433 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.445
+
+
+Execução #4 com 2 threads e matriz 500 x 500
+
+2 Threads
+Inicialização -- 0.011 segundos
+Produto de matrizes -- 0.445 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.456
+
+
+Execução #5 com 2 threads e matriz 500 x 500
+
+2 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.418 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.428
+
+
+Execução #1 com 3 threads e matriz 500 x 500
+
+3 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.288 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.298
+
+
+Execução #2 com 3 threads e matriz 500 x 500
+
+3 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.308 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.318
+
+
+Execução #3 com 3 threads e matriz 500 x 500
+
+3 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.286 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.296
+
+
+Execução #4 com 3 threads e matriz 500 x 500
+
+3 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.300 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.309
+
+
+Execução #5 com 3 threads e matriz 500 x 500
+
+3 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.305 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.315
+
+
+Execução #1 com 4 threads e matriz 500 x 500
+
+4 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.260 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.271
+
+
+Execução #2 com 4 threads e matriz 500 x 500
+
+4 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.278 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.288
+
+
+Execução #3 com 4 threads e matriz 500 x 500
+
+4 Threads
+Inicialização -- 0.009 segundos
+Produto de matrizes -- 0.256 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.265
+
+
+Execução #4 com 4 threads e matriz 500 x 500
+
+4 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.283 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.294
+
+
+Execução #5 com 4 threads e matriz 500 x 500
+
+4 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.244 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.254
+
+
+Execução #1 com 5 threads e matriz 500 x 500
+
+5 Threads
+Inicialização -- 0.009 segundos
+Produto de matrizes -- 0.246 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.255
+
+
+Execução #2 com 5 threads e matriz 500 x 500
+
+5 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.236 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.246
+
+
+Execução #3 com 5 threads e matriz 500 x 500
+
+5 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.240 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.250
+
+
+Execução #4 com 5 threads e matriz 500 x 500
+
+5 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.258 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.269
+
+
+Execução #5 com 5 threads e matriz 500 x 500
+
+5 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.241 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.252
+
+
+Execução #1 com 6 threads e matriz 500 x 500
+
+6 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.216 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.226
+
+
+Execução #2 com 6 threads e matriz 500 x 500
+
+6 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.227 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.238
+
+
+Execução #3 com 6 threads e matriz 500 x 500
+
+6 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.230 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.240
+
+
+Execução #4 com 6 threads e matriz 500 x 500
+
+6 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.224 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.234
+
+
+Execução #5 com 6 threads e matriz 500 x 500
+
+6 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.222 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.232
+
+
+Execução #1 com 7 threads e matriz 500 x 500
+
+7 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.217 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.227
+
+
+Execução #2 com 7 threads e matriz 500 x 500
+
+7 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.214 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.224
+
+
+Execução #3 com 7 threads e matriz 500 x 500
+
+7 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.211 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.220
+
+
+Execução #4 com 7 threads e matriz 500 x 500
+
+7 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.209 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.219
+
+
+Execução #5 com 7 threads e matriz 500 x 500
+
+7 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.213 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.223
+
+
+Execução #1 com 8 threads e matriz 500 x 500
+
+8 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.217 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.227
+
+
+Execução #2 com 8 threads e matriz 500 x 500
+
+8 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.204 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.214
+
+
+Execução #3 com 8 threads e matriz 500 x 500
+
+8 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.206 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.216
+
+
+Execução #4 com 8 threads e matriz 500 x 500
+
+8 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.205 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.216
+
+
+Execução #5 com 8 threads e matriz 500 x 500
+
+8 Threads
+Inicialização -- 0.010 segundos
+Produto de matrizes -- 0.209 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 0.220
+
+
+Execução #1 com 1 threads e matriz 1000 x 1000
+
+1 Thread
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 8.980 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 9.017
+
+
+Execução #2 com 1 threads e matriz 1000 x 1000
+
+1 Thread
+Inicialização -- 0.039 segundos
+Produto de matrizes -- 9.157 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 9.196
+
+
+Execução #3 com 1 threads e matriz 1000 x 1000
+
+1 Thread
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 9.816 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 9.852
+
+
+Execução #4 com 1 threads e matriz 1000 x 1000
+
+1 Thread
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 8.418 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 8.454
+
+
+Execução #5 com 1 threads e matriz 1000 x 1000
+
+1 Thread
+Inicialização -- 0.035 segundos
+Produto de matrizes -- 8.617 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 8.652
+
+
+Execução #1 com 2 threads e matriz 1000 x 1000
+
+2 Threads
+Inicialização -- 0.035 segundos
+Produto de matrizes -- 4.778 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 4.814
+
+
+Execução #2 com 2 threads e matriz 1000 x 1000
+
+2 Threads
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 4.838 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 4.874
+
+
+Execução #3 com 2 threads e matriz 1000 x 1000
+
+2 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 4.819 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 4.856
+
+
+Execução #4 com 2 threads e matriz 1000 x 1000
+
+2 Threads
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 4.806 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 4.843
+
+
+Execução #5 com 2 threads e matriz 1000 x 1000
+
+2 Threads
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 4.855 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 4.892
+
+
+Execução #1 com 3 threads e matriz 1000 x 1000
+
+3 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 3.267 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.304
+
+
+Execução #2 com 3 threads e matriz 1000 x 1000
+
+3 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 3.350 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.387
+
+
+Execução #3 com 3 threads e matriz 1000 x 1000
+
+3 Threads
+Inicialização -- 0.036 segundos
+Produto de matrizes -- 3.282 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.319
+
+
+Execução #4 com 3 threads e matriz 1000 x 1000
+
+3 Threads
+Inicialização -- 0.035 segundos
+Produto de matrizes -- 3.258 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.293
+
+
+Execução #5 com 3 threads e matriz 1000 x 1000
+
+3 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 3.240 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.277
+
+
+Execução #1 com 4 threads e matriz 1000 x 1000
+
+4 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.780 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.817
+
+
+Execução #2 com 4 threads e matriz 1000 x 1000
+
+4 Threads
+Inicialização -- 0.039 segundos
+Produto de matrizes -- 2.795 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.834
+
+
+Execução #3 com 4 threads e matriz 1000 x 1000
+
+4 Threads
+Inicialização -- 0.039 segundos
+Produto de matrizes -- 3.107 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.146
+
+
+Execução #4 com 4 threads e matriz 1000 x 1000
+
+4 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.979 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 3.017
+
+
+Execução #5 com 4 threads e matriz 1000 x 1000
+
+4 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.771 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.809
+
+
+Execução #1 com 5 threads e matriz 1000 x 1000
+
+5 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.666 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.703
+
+
+Execução #2 com 5 threads e matriz 1000 x 1000
+
+5 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.671 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.708
+
+
+Execução #3 com 5 threads e matriz 1000 x 1000
+
+5 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.720 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.757
+
+
+Execução #4 com 5 threads e matriz 1000 x 1000
+
+5 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.582 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.620
+
+
+Execução #5 com 5 threads e matriz 1000 x 1000
+
+5 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.791 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.828
+
+
+Execução #1 com 6 threads e matriz 1000 x 1000
+
+6 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.656 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.695
+
+
+Execução #2 com 6 threads e matriz 1000 x 1000
+
+6 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.474 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.512
+
+
+Execução #3 com 6 threads e matriz 1000 x 1000
+
+6 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.541 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.579
+
+
+Execução #4 com 6 threads e matriz 1000 x 1000
+
+6 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.509 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.547
+
+
+Execução #5 com 6 threads e matriz 1000 x 1000
+
+6 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.569 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.608
+
+
+Execução #1 com 7 threads e matriz 1000 x 1000
+
+7 Threads
+Inicialização -- 0.037 segundos
+Produto de matrizes -- 2.447 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.485
+
+
+Execução #2 com 7 threads e matriz 1000 x 1000
+
+7 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.403 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.441
+
+
+Execução #3 com 7 threads e matriz 1000 x 1000
+
+7 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.396 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.434
+
+
+Execução #4 com 7 threads e matriz 1000 x 1000
+
+7 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.408 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.446
+
+
+Execução #5 com 7 threads e matriz 1000 x 1000
+
+7 Threads
+Inicialização -- 0.040 segundos
+Produto de matrizes -- 2.408 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.448
+
+
+Execução #1 com 8 threads e matriz 1000 x 1000
+
+8 Threads
+Inicialização -- 0.038 segundos
+Produto de matrizes -- 2.358 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.396
+
+
+Execução #2 com 8 threads e matriz 1000 x 1000
+
+8 Threads
+Inicialização -- 0.042 segundos
+Produto de matrizes -- 2.460 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.502
+
+
+Execução #3 com 8 threads e matriz 1000 x 1000
+
+8 Threads
+Inicialização -- 0.041 segundos
+Produto de matrizes -- 2.408 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.449
+
+
+Execução #4 com 8 threads e matriz 1000 x 1000
+
+8 Threads
+Inicialização -- 0.041 segundos
+Produto de matrizes -- 2.402 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.443
+
+
+Execução #5 com 8 threads e matriz 1000 x 1000
+
+8 Threads
+Inicialização -- 0.040 segundos
+Produto de matrizes -- 2.393 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 2.434
+
+
+Execução #1 com 1 threads e matriz 2000 x 2000
+
+1 Thread
+Inicialização -- 0.150 segundos
+Produto de matrizes -- 111.049 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 111.200
+
+
+Execução #2 com 1 threads e matriz 2000 x 2000
+
+1 Thread
+Inicialização -- 0.140 segundos
+Produto de matrizes -- 115.890 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 116.031
+
+
+Execução #3 com 1 threads e matriz 2000 x 2000
+
+1 Thread
+Inicialização -- 0.145 segundos
+Produto de matrizes -- 115.552 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 115.697
+
+
+Execução #4 com 1 threads e matriz 2000 x 2000
+
+1 Thread
+Inicialização -- 0.143 segundos
+Produto de matrizes -- 114.718 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 114.862
+
+
+Execução #5 com 1 threads e matriz 2000 x 2000
+
+1 Thread
+Inicialização -- 0.152 segundos
+Produto de matrizes -- 114.823 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 114.976
+
+
+Execução #1 com 2 threads e matriz 2000 x 2000
+
+2 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 58.906 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 59.063
+
+
+Execução #2 com 2 threads e matriz 2000 x 2000
+
+2 Threads
+Inicialização -- 0.155 segundos
+Produto de matrizes -- 59.148 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 59.303
+
+
+Execução #3 com 2 threads e matriz 2000 x 2000
+
+2 Threads
+Inicialização -- 0.147 segundos
+Produto de matrizes -- 59.135 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 59.283
+
+
+Execução #4 com 2 threads e matriz 2000 x 2000
+
+2 Threads
+Inicialização -- 0.160 segundos
+Produto de matrizes -- 59.576 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 59.737
+
+
+Execução #5 com 2 threads e matriz 2000 x 2000
+
+2 Threads
+Inicialização -- 0.178 segundos
+Produto de matrizes -- 59.387 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 59.565
+
+
+Execução #1 com 3 threads e matriz 2000 x 2000
+
+3 Threads
+Inicialização -- 0.155 segundos
+Produto de matrizes -- 44.474 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 44.629
+
+
+Execução #2 com 3 threads e matriz 2000 x 2000
+
+3 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 45.908 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 46.066
+
+
+Execução #3 com 3 threads e matriz 2000 x 2000
+
+3 Threads
+Inicialização -- 0.162 segundos
+Produto de matrizes -- 44.900 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 45.062
+
+
+Execução #4 com 3 threads e matriz 2000 x 2000
+
+3 Threads
+Inicialização -- 0.147 segundos
+Produto de matrizes -- 44.077 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 44.224
+
+
+Execução #5 com 3 threads e matriz 2000 x 2000
+
+3 Threads
+Inicialização -- 0.163 segundos
+Produto de matrizes -- 43.927 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 44.090
+
+
+Execução #1 com 4 threads e matriz 2000 x 2000
+
+4 Threads
+Inicialização -- 0.161 segundos
+Produto de matrizes -- 38.155 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 38.317
+
+
+Execução #2 com 4 threads e matriz 2000 x 2000
+
+4 Threads
+Inicialização -- 0.148 segundos
+Produto de matrizes -- 33.999 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 34.147
+
+
+Execução #3 com 4 threads e matriz 2000 x 2000
+
+4 Threads
+Inicialização -- 0.152 segundos
+Produto de matrizes -- 33.599 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 33.752
+
+
+Execução #4 com 4 threads e matriz 2000 x 2000
+
+4 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 34.354 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 34.511
+
+
+Execução #5 com 4 threads e matriz 2000 x 2000
+
+4 Threads
+Inicialização -- 0.147 segundos
+Produto de matrizes -- 32.821 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 32.969
+
+
+Execução #1 com 5 threads e matriz 2000 x 2000
+
+5 Threads
+Inicialização -- 0.152 segundos
+Produto de matrizes -- 31.007 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 31.159
+
+
+Execução #2 com 5 threads e matriz 2000 x 2000
+
+5 Threads
+Inicialização -- 0.148 segundos
+Produto de matrizes -- 30.302 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 30.451
+
+
+Execução #3 com 5 threads e matriz 2000 x 2000
+
+5 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 30.376 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 30.532
+
+
+Execução #4 com 5 threads e matriz 2000 x 2000
+
+5 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 30.894 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 31.051
+
+
+Execução #5 com 5 threads e matriz 2000 x 2000
+
+5 Threads
+Inicialização -- 0.157 segundos
+Produto de matrizes -- 31.534 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 31.692
+
+
+Execução #1 com 6 threads e matriz 2000 x 2000
+
+6 Threads
+Inicialização -- 0.154 segundos
+Produto de matrizes -- 28.484 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 28.638
+
+
+Execução #2 com 6 threads e matriz 2000 x 2000
+
+6 Threads
+Inicialização -- 0.158 segundos
+Produto de matrizes -- 28.768 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 28.926
+
+
+Execução #3 com 6 threads e matriz 2000 x 2000
+
+6 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 29.006 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 29.163
+
+
+Execução #4 com 6 threads e matriz 2000 x 2000
+
+6 Threads
+Inicialização -- 0.150 segundos
+Produto de matrizes -- 28.507 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 28.659
+
+
+Execução #5 com 6 threads e matriz 2000 x 2000
+
+6 Threads
+Inicialização -- 0.163 segundos
+Produto de matrizes -- 28.801 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 28.965
+
+
+Execução #1 com 7 threads e matriz 2000 x 2000
+
+7 Threads
+Inicialização -- 0.156 segundos
+Produto de matrizes -- 26.323 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.480
+
+
+Execução #2 com 7 threads e matriz 2000 x 2000
+
+7 Threads
+Inicialização -- 0.148 segundos
+Produto de matrizes -- 26.726 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.875
+
+
+Execução #3 com 7 threads e matriz 2000 x 2000
+
+7 Threads
+Inicialização -- 0.158 segundos
+Produto de matrizes -- 26.729 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.887
+
+
+Execução #4 com 7 threads e matriz 2000 x 2000
+
+7 Threads
+Inicialização -- 0.146 segundos
+Produto de matrizes -- 26.463 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.610
+
+
+Execução #5 com 7 threads e matriz 2000 x 2000
+
+7 Threads
+Inicialização -- 0.153 segundos
+Produto de matrizes -- 26.973 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 27.126
+
+
+Execução #1 com 8 threads e matriz 2000 x 2000
+
+8 Threads
+Inicialização -- 0.146 segundos
+Produto de matrizes -- 26.631 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.778
+
+
+Execução #2 com 8 threads e matriz 2000 x 2000
+
+8 Threads
+Inicialização -- 0.165 segundos
+Produto de matrizes -- 25.867 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.033
+
+
+Execução #3 com 8 threads e matriz 2000 x 2000
+
+8 Threads
+Inicialização -- 0.155 segundos
+Produto de matrizes -- 25.683 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 25.839
+
+
+Execução #4 com 8 threads e matriz 2000 x 2000
+
+8 Threads
+Inicialização -- 0.159 segundos
+Produto de matrizes -- 25.564 segundos
+Finalização -- 0.000 segundos
+Tempo total -- 25.724
+
+
+Execução #5 com 8 threads e matriz 2000 x 2000
+
+8 Threads
+Inicialização -- 0.157 segundos
+Produto de matrizes -- 25.896 segundos
+Finalização -- 0.001 segundos
+Tempo total -- 26.054
+
+
