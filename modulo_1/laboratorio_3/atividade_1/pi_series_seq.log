@@ -1,0 +1,44 @@
+============== valores decrescentes de k
+
+======= N = 1000
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+
+======= N = 100000
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+
+======= N = 10000000
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+
+======= N = 1000000000
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+
+============== valores crescentes de k
+
+======= N = 1000
+
+Valor obtido: 3.142593654340044
+Diferença do valor obtido para M_PI: 0.001001000750251
+
+======= N = 100000
+
+Valor obtido: 3.141602653689720
+Diferença do valor obtido para M_PI: 0.000010000099927
+
+======= N = 10000000
+
+Valor obtido: 3.141592753589801
+Diferença do valor obtido para M_PI: 0.000000100000008
+
+======= N = 1000000000
+
+Valor obtido: 3.141592654588051
+Diferença do valor obtido para M_PI: 0.000000000998257
+
