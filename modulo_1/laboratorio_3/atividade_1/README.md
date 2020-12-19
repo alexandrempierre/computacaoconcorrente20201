@@ -1,4 +1,4 @@
-# Atividade 1 - Laboratório 1
+# Atividade 1 - Laboratório 3
 
 Abaixo a tabela com os erros correspondentes a cada uma das estratégias para somar os termos da série: k crescente implica somar os termos da série do maior para o menor valor absoluto, k decrescente soma do menor para o maior valor absoluto.
 
