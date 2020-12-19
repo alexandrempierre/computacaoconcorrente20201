@@ -1,44 +1,244 @@
-============== valores decrescentes de k
-
-======= N = 1000
-
-Valor obtido: 3.140592653839793
-Diferença do valor obtido para M_PI: 0.000999999750000
-
-======= N = 100000
-
-Valor obtido: 3.141582653589793
-Diferença do valor obtido para M_PI: 0.000010000000000
-
-======= N = 10000000
-
-Valor obtido: 3.141592553589793
-Diferença do valor obtido para M_PI: 0.000000100000000
-
-======= N = 1000000000
-
-Valor obtido: 3.141592652589793
-Diferença do valor obtido para M_PI: 0.000000001000000
-
 ============== valores crescentes de k
 
-======= N = 1000
-
+======= Execução #1
+Quantidade de termos usados: 1000
 Valor obtido: 3.142593654340044
 Diferença do valor obtido para M_PI: 0.001001000750251
+Tempo gasto (em segundos): 0.000006
 
-======= N = 100000
+======= Execução #2
+Quantidade de termos usados: 1000
+Valor obtido: 3.142593654340044
+Diferença do valor obtido para M_PI: 0.001001000750251
+Tempo gasto (em segundos): 0.000006
 
+======= Execução #3
+Quantidade de termos usados: 1000
+Valor obtido: 3.142593654340044
+Diferença do valor obtido para M_PI: 0.001001000750251
+Tempo gasto (em segundos): 0.000007
+
+======= Execução #4
+Quantidade de termos usados: 1000
+Valor obtido: 3.142593654340044
+Diferença do valor obtido para M_PI: 0.001001000750251
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #5
+Quantidade de termos usados: 1000
+Valor obtido: 3.142593654340044
+Diferença do valor obtido para M_PI: 0.001001000750251
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #1
+Quantidade de termos usados: 100000
 Valor obtido: 3.141602653689720
 Diferença do valor obtido para M_PI: 0.000010000099927
+Tempo gasto (em segundos): 0.000603
 
-======= N = 10000000
+======= Execução #2
+Quantidade de termos usados: 100000
+Valor obtido: 3.141602653689720
+Diferença do valor obtido para M_PI: 0.000010000099927
+Tempo gasto (em segundos): 0.000566
 
+======= Execução #3
+Quantidade de termos usados: 100000
+Valor obtido: 3.141602653689720
+Diferença do valor obtido para M_PI: 0.000010000099927
+Tempo gasto (em segundos): 0.000550
+
+======= Execução #4
+Quantidade de termos usados: 100000
+Valor obtido: 3.141602653689720
+Diferença do valor obtido para M_PI: 0.000010000099927
+Tempo gasto (em segundos): 0.000532
+
+======= Execução #5
+Quantidade de termos usados: 100000
+Valor obtido: 3.141602653689720
+Diferença do valor obtido para M_PI: 0.000010000099927
+Tempo gasto (em segundos): 0.000539
+
+======= Execução #1
+Quantidade de termos usados: 10000000
 Valor obtido: 3.141592753589801
 Diferença do valor obtido para M_PI: 0.000000100000008
+Tempo gasto (em segundos): 0.050505
 
-======= N = 1000000000
+======= Execução #2
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592753589801
+Diferença do valor obtido para M_PI: 0.000000100000008
+Tempo gasto (em segundos): 0.049272
 
+======= Execução #3
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592753589801
+Diferença do valor obtido para M_PI: 0.000000100000008
+Tempo gasto (em segundos): 0.049255
+
+======= Execução #4
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592753589801
+Diferença do valor obtido para M_PI: 0.000000100000008
+Tempo gasto (em segundos): 0.048539
+
+======= Execução #5
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592753589801
+Diferença do valor obtido para M_PI: 0.000000100000008
+Tempo gasto (em segundos): 0.055600
+
+======= Execução #1
+Quantidade de termos usados: 1000000000
 Valor obtido: 3.141592654588051
 Diferença do valor obtido para M_PI: 0.000000000998257
+Tempo gasto (em segundos): 5.233590
+
+======= Execução #2
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592654588051
+Diferença do valor obtido para M_PI: 0.000000000998257
+Tempo gasto (em segundos): 5.107526
+
+======= Execução #3
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592654588051
+Diferença do valor obtido para M_PI: 0.000000000998257
+Tempo gasto (em segundos): 4.985818
+
+======= Execução #4
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592654588051
+Diferença do valor obtido para M_PI: 0.000000000998257
+Tempo gasto (em segundos): 4.967508
+
+======= Execução #5
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592654588051
+Diferença do valor obtido para M_PI: 0.000000000998257
+Tempo gasto (em segundos): 4.952096
+
+============== valores decrescentes de k
+
+======= Execução #1
+Quantidade de termos usados: 1000
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #2
+Quantidade de termos usados: 1000
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #3
+Quantidade de termos usados: 1000
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #4
+Quantidade de termos usados: 1000
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #5
+Quantidade de termos usados: 1000
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto (em segundos): 0.000006
+
+======= Execução #1
+Quantidade de termos usados: 100000
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto (em segundos): 0.000489
+
+======= Execução #2
+Quantidade de termos usados: 100000
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto (em segundos): 0.000494
+
+======= Execução #3
+Quantidade de termos usados: 100000
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto (em segundos): 0.000495
+
+======= Execução #4
+Quantidade de termos usados: 100000
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto (em segundos): 0.000495
+
+======= Execução #5
+Quantidade de termos usados: 100000
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto (em segundos): 0.000553
+
+======= Execução #1
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto (em segundos): 0.047125
+
+======= Execução #2
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto (em segundos): 0.046531
+
+======= Execução #3
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto (em segundos): 0.046501
+
+======= Execução #4
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto (em segundos): 0.046611
+
+======= Execução #5
+Quantidade de termos usados: 10000000
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto (em segundos): 0.046331
+
+======= Execução #1
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto (em segundos): 4.851134
+
+======= Execução #2
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto (em segundos): 4.779730
+
+======= Execução #3
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto (em segundos): 4.732841
+
+======= Execução #4
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto (em segundos): 4.733635
+
+======= Execução #5
+Quantidade de termos usados: 1000000000
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto (em segundos): 4.743616
 
