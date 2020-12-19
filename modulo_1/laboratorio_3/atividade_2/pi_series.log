@@ -1,0 +1,962 @@
+============== estratégia do passo
+
+======= Execução #1 com N = 1000 e T = 1
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000710
+
+======= Execução #2 com N = 1000 e T = 1
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000760
+
+======= Execução #3 com N = 1000 e T = 1
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000656
+
+======= Execução #4 com N = 1000 e T = 1
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000896
+
+======= Execução #5 com N = 1000 e T = 1
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000633
+
+======= Execução #1 com N = 1000 e T = 2
+
+Valor obtido: 3.140592653839795
+Diferença do valor obtido para M_PI: 0.000999999749998
+Tempo gasto no cálculo: 0.000674
+
+======= Execução #2 com N = 1000 e T = 2
+
+Valor obtido: 3.140592653839795
+Diferença do valor obtido para M_PI: 0.000999999749998
+Tempo gasto no cálculo: 0.000807
+
+======= Execução #3 com N = 1000 e T = 2
+
+Valor obtido: 3.140592653839795
+Diferença do valor obtido para M_PI: 0.000999999749998
+Tempo gasto no cálculo: 0.000687
+
+======= Execução #4 com N = 1000 e T = 2
+
+Valor obtido: 3.140592653839795
+Diferença do valor obtido para M_PI: 0.000999999749998
+Tempo gasto no cálculo: 0.000719
+
+======= Execução #5 com N = 1000 e T = 2
+
+Valor obtido: 3.140592653839795
+Diferença do valor obtido para M_PI: 0.000999999749998
+Tempo gasto no cálculo: 0.000693
+
+======= Execução #1 com N = 1000 e T = 3
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000800
+
+======= Execução #2 com N = 1000 e T = 3
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000748
+
+======= Execução #3 com N = 1000 e T = 3
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000805
+
+======= Execução #4 com N = 1000 e T = 3
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000716
+
+======= Execução #5 com N = 1000 e T = 3
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000759
+
+======= Execução #1 com N = 1000 e T = 4
+
+Valor obtido: 3.140592653839794
+Diferença do valor obtido para M_PI: 0.000999999749999
+Tempo gasto no cálculo: 0.000853
+
+======= Execução #2 com N = 1000 e T = 4
+
+Valor obtido: 3.140592653839794
+Diferença do valor obtido para M_PI: 0.000999999749999
+Tempo gasto no cálculo: 0.000901
+
+======= Execução #3 com N = 1000 e T = 4
+
+Valor obtido: 3.140592653839794
+Diferença do valor obtido para M_PI: 0.000999999749999
+Tempo gasto no cálculo: 0.000942
+
+======= Execução #4 com N = 1000 e T = 4
+
+Valor obtido: 3.140592653839794
+Diferença do valor obtido para M_PI: 0.000999999749999
+Tempo gasto no cálculo: 0.000806
+
+======= Execução #5 com N = 1000 e T = 4
+
+Valor obtido: 3.140592653839794
+Diferença do valor obtido para M_PI: 0.000999999749999
+Tempo gasto no cálculo: 0.000942
+
+======= Execução #1 com N = 1000 e T = 5
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001064
+
+======= Execução #2 com N = 1000 e T = 5
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000762
+
+======= Execução #3 com N = 1000 e T = 5
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000805
+
+======= Execução #4 com N = 1000 e T = 5
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000833
+
+======= Execução #5 com N = 1000 e T = 5
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000853
+
+======= Execução #1 com N = 1000 e T = 6
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001010
+
+======= Execução #2 com N = 1000 e T = 6
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001109
+
+======= Execução #3 com N = 1000 e T = 6
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001219
+
+======= Execução #4 com N = 1000 e T = 6
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001053
+
+======= Execução #5 com N = 1000 e T = 6
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.000824
+
+======= Execução #1 com N = 1000 e T = 7
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001076
+
+======= Execução #2 com N = 1000 e T = 7
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001175
+
+======= Execução #3 com N = 1000 e T = 7
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001030
+
+======= Execução #4 com N = 1000 e T = 7
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001051
+
+======= Execução #5 com N = 1000 e T = 7
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001103
+
+======= Execução #1 com N = 1000 e T = 8
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001104
+
+======= Execução #2 com N = 1000 e T = 8
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001058
+
+======= Execução #3 com N = 1000 e T = 8
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001201
+
+======= Execução #4 com N = 1000 e T = 8
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001179
+
+======= Execução #5 com N = 1000 e T = 8
+
+Valor obtido: 3.140592653839793
+Diferença do valor obtido para M_PI: 0.000999999750000
+Tempo gasto no cálculo: 0.001083
+
+======= Execução #1 com N = 100000 e T = 1
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001160
+
+======= Execução #2 com N = 100000 e T = 1
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001178
+
+======= Execução #3 com N = 100000 e T = 1
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001168
+
+======= Execução #4 com N = 100000 e T = 1
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001159
+
+======= Execução #5 com N = 100000 e T = 1
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001689
+
+======= Execução #1 com N = 100000 e T = 2
+
+Valor obtido: 3.141582653589822
+Diferença do valor obtido para M_PI: 0.000009999999971
+Tempo gasto no cálculo: 0.001002
+
+======= Execução #2 com N = 100000 e T = 2
+
+Valor obtido: 3.141582653589822
+Diferença do valor obtido para M_PI: 0.000009999999971
+Tempo gasto no cálculo: 0.000987
+
+======= Execução #3 com N = 100000 e T = 2
+
+Valor obtido: 3.141582653589822
+Diferença do valor obtido para M_PI: 0.000009999999971
+Tempo gasto no cálculo: 0.000921
+
+======= Execução #4 com N = 100000 e T = 2
+
+Valor obtido: 3.141582653589822
+Diferença do valor obtido para M_PI: 0.000009999999971
+Tempo gasto no cálculo: 0.000885
+
+======= Execução #5 com N = 100000 e T = 2
+
+Valor obtido: 3.141582653589822
+Diferença do valor obtido para M_PI: 0.000009999999971
+Tempo gasto no cálculo: 0.000938
+
+======= Execução #1 com N = 100000 e T = 3
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.000869
+
+======= Execução #2 com N = 100000 e T = 3
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.000885
+
+======= Execução #3 com N = 100000 e T = 3
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.000912
+
+======= Execução #4 com N = 100000 e T = 3
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001007
+
+======= Execução #5 com N = 100000 e T = 3
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001015
+
+======= Execução #1 com N = 100000 e T = 4
+
+Valor obtido: 3.141582653589800
+Diferença do valor obtido para M_PI: 0.000009999999993
+Tempo gasto no cálculo: 0.000946
+
+======= Execução #2 com N = 100000 e T = 4
+
+Valor obtido: 3.141582653589800
+Diferença do valor obtido para M_PI: 0.000009999999993
+Tempo gasto no cálculo: 0.000875
+
+======= Execução #3 com N = 100000 e T = 4
+
+Valor obtido: 3.141582653589800
+Diferença do valor obtido para M_PI: 0.000009999999993
+Tempo gasto no cálculo: 0.000911
+
+======= Execução #4 com N = 100000 e T = 4
+
+Valor obtido: 3.141582653589800
+Diferença do valor obtido para M_PI: 0.000009999999993
+Tempo gasto no cálculo: 0.000889
+
+======= Execução #5 com N = 100000 e T = 4
+
+Valor obtido: 3.141582653589800
+Diferença do valor obtido para M_PI: 0.000009999999993
+Tempo gasto no cálculo: 0.000876
+
+======= Execução #1 com N = 100000 e T = 5
+
+Valor obtido: 3.141582653589794
+Diferença do valor obtido para M_PI: 0.000009999999999
+Tempo gasto no cálculo: 0.001099
+
+======= Execução #2 com N = 100000 e T = 5
+
+Valor obtido: 3.141582653589794
+Diferença do valor obtido para M_PI: 0.000009999999999
+Tempo gasto no cálculo: 0.000945
+
+======= Execução #3 com N = 100000 e T = 5
+
+Valor obtido: 3.141582653589794
+Diferença do valor obtido para M_PI: 0.000009999999999
+Tempo gasto no cálculo: 0.001007
+
+======= Execução #4 com N = 100000 e T = 5
+
+Valor obtido: 3.141582653589794
+Diferença do valor obtido para M_PI: 0.000009999999999
+Tempo gasto no cálculo: 0.000973
+
+======= Execução #5 com N = 100000 e T = 5
+
+Valor obtido: 3.141582653589794
+Diferença do valor obtido para M_PI: 0.000009999999999
+Tempo gasto no cálculo: 0.001321
+
+======= Execução #1 com N = 100000 e T = 6
+
+Valor obtido: 3.141582653589797
+Diferença do valor obtido para M_PI: 0.000009999999996
+Tempo gasto no cálculo: 0.001022
+
+======= Execução #2 com N = 100000 e T = 6
+
+Valor obtido: 3.141582653589797
+Diferença do valor obtido para M_PI: 0.000009999999996
+Tempo gasto no cálculo: 0.001008
+
+======= Execução #3 com N = 100000 e T = 6
+
+Valor obtido: 3.141582653589797
+Diferença do valor obtido para M_PI: 0.000009999999996
+Tempo gasto no cálculo: 0.000912
+
+======= Execução #4 com N = 100000 e T = 6
+
+Valor obtido: 3.141582653589797
+Diferença do valor obtido para M_PI: 0.000009999999996
+Tempo gasto no cálculo: 0.001072
+
+======= Execução #5 com N = 100000 e T = 6
+
+Valor obtido: 3.141582653589797
+Diferença do valor obtido para M_PI: 0.000009999999996
+Tempo gasto no cálculo: 0.001018
+
+======= Execução #1 com N = 100000 e T = 7
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001183
+
+======= Execução #2 com N = 100000 e T = 7
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001112
+
+======= Execução #3 com N = 100000 e T = 7
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001237
+
+======= Execução #4 com N = 100000 e T = 7
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001066
+
+======= Execução #5 com N = 100000 e T = 7
+
+Valor obtido: 3.141582653589793
+Diferença do valor obtido para M_PI: 0.000010000000000
+Tempo gasto no cálculo: 0.001091
+
+======= Execução #1 com N = 100000 e T = 8
+
+Valor obtido: 3.141582653589791
+Diferença do valor obtido para M_PI: 0.000010000000002
+Tempo gasto no cálculo: 0.001172
+
+======= Execução #2 com N = 100000 e T = 8
+
+Valor obtido: 3.141582653589791
+Diferença do valor obtido para M_PI: 0.000010000000002
+Tempo gasto no cálculo: 0.001199
+
+======= Execução #3 com N = 100000 e T = 8
+
+Valor obtido: 3.141582653589791
+Diferença do valor obtido para M_PI: 0.000010000000002
+Tempo gasto no cálculo: 0.001248
+
+======= Execução #4 com N = 100000 e T = 8
+
+Valor obtido: 3.141582653589791
+Diferença do valor obtido para M_PI: 0.000010000000002
+Tempo gasto no cálculo: 0.001152
+
+======= Execução #5 com N = 100000 e T = 8
+
+Valor obtido: 3.141582653589791
+Diferença do valor obtido para M_PI: 0.000010000000002
+Tempo gasto no cálculo: 0.000997
+
+======= Execução #1 com N = 10000000 e T = 1
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto no cálculo: 0.047520
+
+======= Execução #2 com N = 10000000 e T = 1
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto no cálculo: 0.048856
+
+======= Execução #3 com N = 10000000 e T = 1
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto no cálculo: 0.047900
+
+======= Execução #4 com N = 10000000 e T = 1
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto no cálculo: 0.047307
+
+======= Execução #5 com N = 10000000 e T = 1
+
+Valor obtido: 3.141592553589793
+Diferença do valor obtido para M_PI: 0.000000100000000
+Tempo gasto no cálculo: 0.048713
+
+======= Execução #1 com N = 10000000 e T = 2
+
+Valor obtido: 3.141592553589760
+Diferença do valor obtido para M_PI: 0.000000100000033
+Tempo gasto no cálculo: 0.028915
+
+======= Execução #2 com N = 10000000 e T = 2
+
+Valor obtido: 3.141592553589760
+Diferença do valor obtido para M_PI: 0.000000100000033
+Tempo gasto no cálculo: 0.025096
+
+======= Execução #3 com N = 10000000 e T = 2
+
+Valor obtido: 3.141592553589760
+Diferença do valor obtido para M_PI: 0.000000100000033
+Tempo gasto no cálculo: 0.023595
+
+======= Execução #4 com N = 10000000 e T = 2
+
+Valor obtido: 3.141592553589760
+Diferença do valor obtido para M_PI: 0.000000100000033
+Tempo gasto no cálculo: 0.024222
+
+======= Execução #5 com N = 10000000 e T = 2
+
+Valor obtido: 3.141592553589760
+Diferença do valor obtido para M_PI: 0.000000100000033
+Tempo gasto no cálculo: 0.024001
+
+======= Execução #1 com N = 10000000 e T = 3
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.018067
+
+======= Execução #2 com N = 10000000 e T = 3
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.017710
+
+======= Execução #3 com N = 10000000 e T = 3
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.018285
+
+======= Execução #4 com N = 10000000 e T = 3
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.017705
+
+======= Execução #5 com N = 10000000 e T = 3
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.017771
+
+======= Execução #1 com N = 10000000 e T = 4
+
+Valor obtido: 3.141592553589909
+Diferença do valor obtido para M_PI: 0.000000099999884
+Tempo gasto no cálculo: 0.016916
+
+======= Execução #2 com N = 10000000 e T = 4
+
+Valor obtido: 3.141592553589909
+Diferença do valor obtido para M_PI: 0.000000099999884
+Tempo gasto no cálculo: 0.017499
+
+======= Execução #3 com N = 10000000 e T = 4
+
+Valor obtido: 3.141592553589909
+Diferença do valor obtido para M_PI: 0.000000099999884
+Tempo gasto no cálculo: 0.016771
+
+======= Execução #4 com N = 10000000 e T = 4
+
+Valor obtido: 3.141592553589909
+Diferença do valor obtido para M_PI: 0.000000099999884
+Tempo gasto no cálculo: 0.014688
+
+======= Execução #5 com N = 10000000 e T = 4
+
+Valor obtido: 3.141592553589909
+Diferença do valor obtido para M_PI: 0.000000099999884
+Tempo gasto no cálculo: 0.014028
+
+======= Execução #1 com N = 10000000 e T = 5
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.014476
+
+======= Execução #2 com N = 10000000 e T = 5
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.014253
+
+======= Execução #3 com N = 10000000 e T = 5
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.014312
+
+======= Execução #4 com N = 10000000 e T = 5
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.015050
+
+======= Execução #5 com N = 10000000 e T = 5
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.014216
+
+======= Execução #1 com N = 10000000 e T = 6
+
+Valor obtido: 3.141592553589828
+Diferença do valor obtido para M_PI: 0.000000099999965
+Tempo gasto no cálculo: 0.012947
+
+======= Execução #2 com N = 10000000 e T = 6
+
+Valor obtido: 3.141592553589828
+Diferença do valor obtido para M_PI: 0.000000099999965
+Tempo gasto no cálculo: 0.013317
+
+======= Execução #3 com N = 10000000 e T = 6
+
+Valor obtido: 3.141592553589828
+Diferença do valor obtido para M_PI: 0.000000099999965
+Tempo gasto no cálculo: 0.013168
+
+======= Execução #4 com N = 10000000 e T = 6
+
+Valor obtido: 3.141592553589828
+Diferença do valor obtido para M_PI: 0.000000099999965
+Tempo gasto no cálculo: 0.013512
+
+======= Execução #5 com N = 10000000 e T = 6
+
+Valor obtido: 3.141592553589828
+Diferença do valor obtido para M_PI: 0.000000099999965
+Tempo gasto no cálculo: 0.013620
+
+======= Execução #1 com N = 10000000 e T = 7
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.011598
+
+======= Execução #2 com N = 10000000 e T = 7
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.012196
+
+======= Execução #3 com N = 10000000 e T = 7
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.011663
+
+======= Execução #4 com N = 10000000 e T = 7
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.011534
+
+======= Execução #5 com N = 10000000 e T = 7
+
+Valor obtido: 3.141592553589794
+Diferença do valor obtido para M_PI: 0.000000099999999
+Tempo gasto no cálculo: 0.011382
+
+======= Execução #1 com N = 10000000 e T = 8
+
+Valor obtido: 3.141592553589740
+Diferença do valor obtido para M_PI: 0.000000100000053
+Tempo gasto no cálculo: 0.010799
+
+======= Execução #2 com N = 10000000 e T = 8
+
+Valor obtido: 3.141592553589740
+Diferença do valor obtido para M_PI: 0.000000100000053
+Tempo gasto no cálculo: 0.010977
+
+======= Execução #3 com N = 10000000 e T = 8
+
+Valor obtido: 3.141592553589740
+Diferença do valor obtido para M_PI: 0.000000100000053
+Tempo gasto no cálculo: 0.011014
+
+======= Execução #4 com N = 10000000 e T = 8
+
+Valor obtido: 3.141592553589740
+Diferença do valor obtido para M_PI: 0.000000100000053
+Tempo gasto no cálculo: 0.010969
+
+======= Execução #5 com N = 10000000 e T = 8
+
+Valor obtido: 3.141592553589740
+Diferença do valor obtido para M_PI: 0.000000100000053
+Tempo gasto no cálculo: 0.010843
+
+======= Execução #1 com N = 1000000000 e T = 1
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 4.697176
+
+======= Execução #2 com N = 1000000000 e T = 1
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 4.686235
+
+======= Execução #3 com N = 1000000000 e T = 1
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 4.749740
+
+======= Execução #4 com N = 1000000000 e T = 1
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 4.908356
+
+======= Execução #5 com N = 1000000000 e T = 1
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 4.793416
+
+======= Execução #1 com N = 1000000000 e T = 2
+
+Valor obtido: 3.141592652589431
+Diferença do valor obtido para M_PI: 0.000000001000362
+Tempo gasto no cálculo: 2.521443
+
+======= Execução #2 com N = 1000000000 e T = 2
+
+Valor obtido: 3.141592652589431
+Diferença do valor obtido para M_PI: 0.000000001000362
+Tempo gasto no cálculo: 2.611233
+
+======= Execução #3 com N = 1000000000 e T = 2
+
+Valor obtido: 3.141592652589431
+Diferença do valor obtido para M_PI: 0.000000001000362
+Tempo gasto no cálculo: 2.508060
+
+======= Execução #4 com N = 1000000000 e T = 2
+
+Valor obtido: 3.141592652589431
+Diferença do valor obtido para M_PI: 0.000000001000362
+Tempo gasto no cálculo: 2.662375
+
+======= Execução #5 com N = 1000000000 e T = 2
+
+Valor obtido: 3.141592652589431
+Diferença do valor obtido para M_PI: 0.000000001000362
+Tempo gasto no cálculo: 2.660418
+
+======= Execução #1 com N = 1000000000 e T = 3
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.987304
+
+======= Execução #2 com N = 1000000000 e T = 3
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.907362
+
+======= Execução #3 com N = 1000000000 e T = 3
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.921561
+
+======= Execução #4 com N = 1000000000 e T = 3
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.928949
+
+======= Execução #5 com N = 1000000000 e T = 3
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.899299
+
+======= Execução #1 com N = 1000000000 e T = 4
+
+Valor obtido: 3.141592652589331
+Diferença do valor obtido para M_PI: 0.000000001000462
+Tempo gasto no cálculo: 1.712547
+
+======= Execução #2 com N = 1000000000 e T = 4
+
+Valor obtido: 3.141592652589331
+Diferença do valor obtido para M_PI: 0.000000001000462
+Tempo gasto no cálculo: 1.559942
+
+======= Execução #3 com N = 1000000000 e T = 4
+
+Valor obtido: 3.141592652589331
+Diferença do valor obtido para M_PI: 0.000000001000462
+Tempo gasto no cálculo: 1.625490
+
+======= Execução #4 com N = 1000000000 e T = 4
+
+Valor obtido: 3.141592652589331
+Diferença do valor obtido para M_PI: 0.000000001000462
+Tempo gasto no cálculo: 1.583743
+
+======= Execução #5 com N = 1000000000 e T = 4
+
+Valor obtido: 3.141592652589331
+Diferença do valor obtido para M_PI: 0.000000001000462
+Tempo gasto no cálculo: 1.620632
+
+======= Execução #1 com N = 1000000000 e T = 5
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 1.422496
+
+======= Execução #2 com N = 1000000000 e T = 5
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 1.433286
+
+======= Execução #3 com N = 1000000000 e T = 5
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 1.411067
+
+======= Execução #4 com N = 1000000000 e T = 5
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 1.497027
+
+======= Execução #5 com N = 1000000000 e T = 5
+
+Valor obtido: 3.141592652589793
+Diferença do valor obtido para M_PI: 0.000000001000000
+Tempo gasto no cálculo: 1.477836
+
+======= Execução #1 com N = 1000000000 e T = 6
+
+Valor obtido: 3.141592652589559
+Diferença do valor obtido para M_PI: 0.000000001000234
+Tempo gasto no cálculo: 1.398166
+
+======= Execução #2 com N = 1000000000 e T = 6
+
+Valor obtido: 3.141592652589559
+Diferença do valor obtido para M_PI: 0.000000001000234
+Tempo gasto no cálculo: 1.346737
+
+======= Execução #3 com N = 1000000000 e T = 6
+
+Valor obtido: 3.141592652589559
+Diferença do valor obtido para M_PI: 0.000000001000234
+Tempo gasto no cálculo: 1.287833
+
+======= Execução #4 com N = 1000000000 e T = 6
+
+Valor obtido: 3.141592652589559
+Diferença do valor obtido para M_PI: 0.000000001000234
+Tempo gasto no cálculo: 1.265782
+
+======= Execução #5 com N = 1000000000 e T = 6
+
+Valor obtido: 3.141592652589559
+Diferença do valor obtido para M_PI: 0.000000001000234
+Tempo gasto no cálculo: 1.265979
+
+======= Execução #1 com N = 1000000000 e T = 7
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.171320
+
+======= Execução #2 com N = 1000000000 e T = 7
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.182316
+
+======= Execução #3 com N = 1000000000 e T = 7
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.217770
+
+======= Execução #4 com N = 1000000000 e T = 7
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.142686
+
+======= Execução #5 com N = 1000000000 e T = 7
+
+Valor obtido: 3.141592652589794
+Diferença do valor obtido para M_PI: 0.000000000999999
+Tempo gasto no cálculo: 1.162162
+
+======= Execução #1 com N = 1000000000 e T = 8
+
+Valor obtido: 3.141592652589514
+Diferença do valor obtido para M_PI: 0.000000001000279
+Tempo gasto no cálculo: 1.139429
+
+======= Execução #2 com N = 1000000000 e T = 8
+
+Valor obtido: 3.141592652589514
+Diferença do valor obtido para M_PI: 0.000000001000279
+Tempo gasto no cálculo: 1.155343
+
+======= Execução #3 com N = 1000000000 e T = 8
+
+Valor obtido: 3.141592652589514
+Diferença do valor obtido para M_PI: 0.000000001000279
+Tempo gasto no cálculo: 1.142783
+
+======= Execução #4 com N = 1000000000 e T = 8
+
+Valor obtido: 3.141592652589514
+Diferença do valor obtido para M_PI: 0.000000001000279
+Tempo gasto no cálculo: 1.174795
+
+======= Execução #5 com N = 1000000000 e T = 8
+
+Valor obtido: 3.141592652589514
+Diferença do valor obtido para M_PI: 0.000000001000279
+Tempo gasto no cálculo: 1.203905
+
