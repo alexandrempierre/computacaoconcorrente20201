@@ -14,6 +14,10 @@ double series_term (long long int k);
 void *subseries_sum (void *arg) {
     size_t thread = (size_t) arg;
     double partial_sum, *partial_sum_ptr;
+    long long int start, end;
+
+    start = (T - thread) * N / T;
+    end = (T - 1 - thread) * N / T;
 
     partial_sum = 0.0;
     partial_sum_ptr = (double *) malloc(sizeof(double));
@@ -23,7 +27,7 @@ void *subseries_sum (void *arg) {
         exit(2);
     } 
 
-    for (long long int k = N - thread; k > 0; k -= T) {
+    for (long long int k = start; k > end; k--) {
         partial_sum += series_term(k);
     }
     *partial_sum_ptr = partial_sum;

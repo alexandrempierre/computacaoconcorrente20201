@@ -7,6 +7,7 @@ Repositório com minhas respostas para as atividades da disciplina de Computaç�
 * Linguagem de Programação C
   * POSIX Threads
   * GCC
+  * GDB
 * Git
 * GitHub
 * Markdown
