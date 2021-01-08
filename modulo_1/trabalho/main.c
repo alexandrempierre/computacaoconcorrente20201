@@ -46,7 +46,20 @@ int main(int argc, char const *argv[]) {
 
     /* Inicialização das variáveis e estruturas de dados */
     sscanf(argv[1], "%d", &nthreads);
+    if (nthreads <= 0) {
+        fprintf(stderr, "ERRO -- Quantidade de threads deve ser maior que ou igual a 1>\n");
+        return 5;
+    }
+
     sscanf(argv[2], "%d", &domain_dim);
+    if (domain_dim <= 0) {
+        fprintf(stderr, "ERRO -- Quantidade de variaveis de entrada deve ser maior que ou igual a 1>\n");
+        return 6;
+    }
+
+    if (nthreads > domain_dim) {
+        nthreads = domain_dim;
+    }    
 
     tid = (pthread_t *) malloc(nthreads * sizeof(pthread_t));
     if ( tid == NULL ) {
