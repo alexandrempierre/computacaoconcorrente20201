@@ -70,6 +70,8 @@ Uma já comentada é que esse código não foi feito para calcular derivadas de 
 
 Uma outra um pouco melhor explicada abaixo é que a implementação de números complexos do C99 é bastante lenta.
 
+O código pode ou não estar calculando as derivadas corretamente (ele está), mas o que os [testes](https://github.com/alexandrempierre/computacaoconcorrente20201/tree/main/modulo_1/trabalho/output/values) mostram é que ele dá o mesmo resultado para qualquer número de threads entre 1 (que na prática é como rodar o programa sequencial) e 8.
+
 ## Quatro palavrinhas sobre eficiência
 
 <cite>"Complexos não tem nenhuma." - Sócrates</cite>
