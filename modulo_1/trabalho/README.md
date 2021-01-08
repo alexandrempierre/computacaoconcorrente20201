@@ -68,6 +68,8 @@ Alguém que manje de verdade de diferenciação automática pode tentar acrescen
 
 Uma já comentada é que esse código não foi feito para calcular derivadas de funções complexas. 
 
+Uma outra um pouco melhor explicada abaixo é que a implementação de números complexos do C99 é bastante lenta.
+
 ## Quatro palavrinhas sobre eficiência
 
 <cite>"Complexos não tem nenhuma." - Sócrates</cite>
