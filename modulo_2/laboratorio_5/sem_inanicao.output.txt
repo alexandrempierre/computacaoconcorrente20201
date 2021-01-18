@@ -1,0 +1,202 @@
+gcc -o leitora_escritora.out leitora_escritora.c -lpthread -Wall --pedantic
+# gcc -o sem_prioridade.out sem_prioridade.c -lpthread -Wall --pedantic
+# gcc -o prioridade_escritora.out prioridade_escritora.c -lpthread -Wall --pedantic
+./leitora_escritora.out 3 4
+thread 0 (leitora) quer ler
+thread 1 (leitora) quer ler
+thread 2 (leitora) quer ler
+thread 0 (leitora) reportando...
+Valores no vetor:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Média: 0.000000
+thread 1 (leitora) reportando...
+Valores no vetor:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Média: 0.000000
+thread 3 (escritora) quer escrever
+thread 3 (escritora) se bloqueou
+thread 2 (leitora) reportando...
+Valores no vetor:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Média: 0.000000
+thread 2 (leitora) terminou de ler
+thread 0 (leitora) terminou de ler
+thread 4 (escritora) quer escrever
+thread 4 (escritora) se bloqueou
+thread 1 (leitora) terminou de ler
+thread 3 (escritora) se desbloqueou
+thread 3 (escritora) terminou de escrever
+thread 5 (escritora) quer escrever
+thread 4 (escritora) se desbloqueou
+thread 4 (escritora) se bloqueou
+thread 5 (escritora) terminou de escrever
+thread 4 (escritora) se desbloqueou
+thread 4 (escritora) terminou de escrever
+thread 6 (escritora) quer escrever
+thread 6 (escritora) terminou de escrever
+thread 5 (escritora) quer escrever
+thread 1 (leitora) quer ler
+thread 1 (leitora) se bloqueou
+thread 5 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 2 (leitora) quer ler
+thread 6 (escritora) quer escrever
+thread 6 (escritora) se bloqueou
+thread 3 (escritora) quer escrever
+thread 3 (escritora) se bloqueou
+thread 0 (leitora) quer ler
+thread 0 (leitora) se bloqueou
+thread 1 (leitora) reportando...
+Valores no vetor:
+5 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 5 
+Média: 9.900000
+thread 2 (leitora) reportando...
+Valores no vetor:
+5 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 5 
+Média: 9.900000
+thread 4 (escritora) quer escrever
+thread 4 (escritora) se bloqueou
+thread 1 (leitora) terminou de ler
+thread 2 (leitora) terminou de ler
+thread 6 (escritora) se desbloqueou
+thread 6 (escritora) terminou de escrever
+thread 3 (escritora) se desbloqueou
+thread 3 (escritora) terminou de escrever
+thread 0 (leitora) se desbloqueou
+thread 4 (escritora) se desbloqueou
+thread 4 (escritora) se bloqueou
+thread 0 (leitora) reportando...
+Valores no vetor:
+3 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 3 
+Média: 5.940000
+thread 0 (leitora) terminou de ler
+thread 4 (escritora) se desbloqueou
+thread 4 (escritora) terminou de escrever
+thread 5 (escritora) quer escrever
+thread 5 (escritora) terminou de escrever
+thread 6 (escritora) quer escrever
+thread 6 (escritora) terminou de escrever
+thread 3 (escritora) quer escrever
+thread 3 (escritora) terminou de escrever
+thread 1 (leitora) quer ler
+thread 0 (leitora) quer ler
+thread 2 (leitora) quer ler
+thread 1 (leitora) reportando...
+Valores no vetor:
+3 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 3 
+Média: 5.940000
+thread 1 (leitora) terminou de ler
+thread 0 (leitora) reportando...
+Valores no vetor:
+3 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 3 
+Média: 5.940000
+thread 2 (leitora) reportando...
+Valores no vetor:
+3 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 3 
+Média: 5.940000
+thread 4 (escritora) quer escrever
+thread 4 (escritora) se bloqueou
+thread 0 (leitora) terminou de ler
+thread 2 (leitora) terminou de ler
+thread 4 (escritora) se desbloqueou
+thread 4 (escritora) terminou de escrever
+thread 1 (leitora) quer ler
+thread 1 (leitora) se bloqueou
+thread 6 (escritora) quer escrever
+thread 5 (escritora) quer escrever
+thread 5 (escritora) se bloqueou
+thread 6 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 5 (escritora) se desbloqueou
+thread 5 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 3 (escritora) quer escrever
+thread 3 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 0 (leitora) quer ler
+thread 0 (leitora) se bloqueou
+thread 4 (escritora) quer escrever
+thread 2 (leitora) quer ler
+thread 2 (leitora) se bloqueou
+thread 4 (escritora) terminou de escrever
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 5 (escritora) quer escrever
+thread 5 (escritora) terminou de escrever
+thread 6 (escritora) quer escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 6 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 3 (escritora) quer escrever
+thread 3 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 4 (escritora) quer escrever
+thread 4 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 6 (escritora) quer escrever
+thread 6 (escritora) terminou de escrever
+thread 5 (escritora) quer escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 5 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 3 (escritora) quer escrever
+thread 3 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 4 (escritora) quer escrever
+thread 4 (escritora) terminou de escrever
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 6 (escritora) quer escrever
+thread 6 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 5 (escritora) quer escrever
+thread 5 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora) se bloqueou
+thread 0 (leitora) se desbloqueou
+thread 0 (leitora) se bloqueou
+thread 1 (leitora) se desbloqueou
+thread 1 (leitora) se bloqueou
+thread 3 (escritora) quer escrever
+thread 3 (escritora) terminou de escrever
+thread 2 (leitora) se desbloqueou
+thread 2 (leitora
