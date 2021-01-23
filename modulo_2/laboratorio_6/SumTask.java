@@ -16,5 +16,7 @@ public class SumTask implements Runnable {
             s = this.A.getElementAt(i) + this.B.getElementAt(i);
             this.C.setElementAt(i, s);
         }
+
+        System.out.println("-- Fim da soma na thread " + this.tid);
     }
 }

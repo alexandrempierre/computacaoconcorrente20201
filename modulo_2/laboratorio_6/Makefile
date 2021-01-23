@@ -1,4 +1,6 @@
-run: Lab6.class
+run: clean Lab6.class
 	java Lab6
-Lab6.class:
-	javac Lab6.java SUmTask.java Vector.java
+Lab6.class: clean
+	javac Lab6.java SumTask.java Vector.java
+clean:
+	find . -maxdepth 1 -name "*.class" -delete

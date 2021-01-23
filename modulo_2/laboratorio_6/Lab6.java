@@ -1,5 +1,5 @@
 public class Lab6 {
-    private static final int nthreads = 15, len = 20;
+    private static final int nthreads = 4, len = 20;
 
     public static void main (String[] args) {
         Thread[] threads = new Thread[nthreads];
@@ -29,7 +29,7 @@ public class Lab6 {
                 return ;
             }
 
-            System.out.println("-- Fim da thread " + i);
+            System.out.println("-- Join da thread " + i);
         }
 
         System.out.println("Vetor C");
